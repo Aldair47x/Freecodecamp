@@ -1,0 +1,21 @@
+{
+  "name": "@aldair47x/nodeexpress",
+  "version": "1.0.1",
+  "description": "Starting with node!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aldair Bernal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldair47x/Freecodecamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aldair47x/Freecodecamp/issues"
+  },
+  "homepage": "https://github.com/Aldair47x/Freecodecamp#readme",
+  "dependencies": {}
+}
