@@ -1,4 +1,4 @@
-<h1>In this repository I will be pushing the challenges and proyects of Freecodecamp </h1>
+<h1>In this repository I will be pushing the challenges and projects of Freecodecamp </h1>
 <p>Front-end</p>
   <ul>Tribute page </ul>
 <br>
