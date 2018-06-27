@@ -1,17 +1,21 @@
-<h1>Freecodecamp </h1>
+<h1>♛ Freecodecamp personal repository ♛ </h1>
 
-<p>In this repository I will be pushing the challenges and projects of the Full Stack certification</p>
+<h2>Motivation</h2>
 
-<h2>Front-end</h2>
-  <ul>Tribute page </ul>
-  
+<p>Having a tracking log list for all the exercises, projects and tutorial for over the 8,000+ lessons, articles, and videos that can find at [a link](https://learn.freecodecamp.org/)</p>
+
+<li> Front-end certification </li>
+<li> Back-end certification </li>
+<li> Data Visualization certification </li>
+
 <br>
 
-<h2>Back-end</h2>
-  <ul>Node examples</ul>
-  <ul>Git examples</ul>
-  <ul>Timestamp Microservice (independent repository)</ul>
-  <ul>Request Header Parser Microservice (independent repository)</ul>
-  <ul>URL Shortener Microservice (independent repository)</ul>
-  <ul>Image Search Abstraction Layer (independent repository)</ul>
-  <ul>File Metadata Microservice (independent repository)</ul>
+## Authors
+
+* **Aldair Bernal** - *Full work* - [Aldair47x](https://github.com/Aldair47x)
+
+Follow me! – [aldair47x@Twitter](https://twitter.com/aldair47x) – aldair47x@gmail.com
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
