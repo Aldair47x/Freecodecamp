@@ -159,22 +159,22 @@
 
 <h2>Responsive Web Design Principles</h2>
 
-<li> Create a Media Query</li>
-<li> Make an Image Responsive</li>
-<li> Use a Retina Image for Higher Resolution Displays</li>
-<li> Make Typography Responsive</li>
+<li>☑ Create a Media Query</li>
+<li>☑ Make an Image Responsive</li>
+<li>☑ Use a Retina Image for Higher Resolution Displays</li>
+<li>☑ Make Typography Responsive</li>
 
 <h2>CSS Flexbox</h2>
 
-<li> Use display: flex to Position Two Boxes</li>
-<li> Add Flex Superpowers to the Tweet Embed</li>
-<li> Use the flex-direction Property to Make a Row</li>
-<li> Apply the flex-direction Property to Create Rows in the Tweet Embed</li>
-<li> Use the flex-direction Property to Make a Column</li>
-<li> Apply the flex-direction Property to Create a Column in the Tweet Embed</li>
-<li> Align Elements Using the justify-content Property</li>
-<li> Use the justify-content Property in the Tweet Embed</li>
-<li> Align Elements Using the align-items Property</li>
+<li>☑ Use display: flex to Position Two Boxes</li>
+<li>☑ Add Flex Superpowers to the Tweet Embed</li>
+<li>☑ Use the flex-direction Property to Make a Row</li>
+<li>☑ Apply the flex-direction Property to Create Rows in the Tweet Embed</li>
+<li>☑ Use the flex-direction Property to Make a Column</li>
+<li>☑ Apply the flex-direction Property to Create a Column in the Tweet Embed</li>
+<li>☑ Align Elements Using the justify-content Property</li>
+<li>☑ Use the justify-content Property in the Tweet Embed</li>
+<li>☑ Align Elements Using the align-items Property</li>
 <li> Use the align-items Property in the Tweet Embed</li>
 <li> Use the flex-wrap Property to Wrap a Row or Column</li>
 <li> Use the flex-shrink Property to Shrink Items</li>
