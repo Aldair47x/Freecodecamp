@@ -2,7 +2,7 @@
 
 <h2>Motivation</h2>
 
-<p>Having a tracking log list for all the exercises, projects and tutorial for over the 8,000+ lessons, articles, and videos that can find at [a link](https://learn.freecodecamp.org/)</p>
+<p>Having a tracking log list for all the exercises, projects and tutorial for over the 8,000+ lessons, articles, and videos that can find at <a href="https://learn.freecodecamp.org/">FreeCodeCamp</a> </p>
 
 <li> Front-end certification </li>
 <li> Back-end certification </li>
