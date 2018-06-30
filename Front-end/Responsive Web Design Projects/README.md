@@ -175,39 +175,39 @@
 <li>☑ Align Elements Using the justify-content Property</li>
 <li>☑ Use the justify-content Property in the Tweet Embed</li>
 <li>☑ Align Elements Using the align-items Property</li>
-<li> Use the align-items Property in the Tweet Embed</li>
-<li> Use the flex-wrap Property to Wrap a Row or Column</li>
-<li> Use the flex-shrink Property to Shrink Items</li>
-<li> Use the flex-grow Property to Expand Items</li>
-<li> Use the flex-basis Property to Set the Initial Size of an Item</li>
-<li> Use the flex Shorthand Property</li>
-<li> Use the order Property to Rearrange Items</li>
-<li> Use the align-self Property</li>
+<li>☑ Use the align-items Property in the Tweet Embed</li>
+<li>☑ Use the flex-wrap Property to Wrap a Row or Column</li>
+<li>☑ Use the flex-shrink Property to Shrink Items</li>
+<li>☑ Use the flex-grow Property to Expand Items</li>
+<li>☑ Use the flex-basis Property to Set the Initial Size of an Item</li>
+<li>☑ Use the flex Shorthand Property</li>
+<li>☑ Use the order Property to Rearrange Items</li>
+<li>☑ Use the align-self Property</li>
 
 <h2>CSS Grid</h2>
 
-<li> Create Your First CSS Grid</li>
-<li> Add Columns with grid-template-columns</li>
-<li> Add Rows with grid-template-rows</li>
-<li> Use CSS Grid units to Change the Size of Columns and Rows</li>
-<li> Create a Column Gap Using grid-column-gap</li>
-<li> Create a Row Gap using grid-row-gap</li>
-<li> Add Gaps Faster with grid-gap</li>
-<li> Use grid-column to Control Spacing</li>
-<li> Use grid-row to Control Spacing</li>
-<li> Align an Item Horizontally using justify-self</li>
-<li> Align an Item Vertically using align-self</li>
-<li> Align All Items Horizontally using justify-items</li>
-<li> Align All Items Vertically using align-items</li>
-<li> Divide the Grid Into an Area Template</li>
-<li> Place Items in Grid Areas Using the grid-area Property</li>
-<li> Use grid-area Without Creating an Areas Template</li>
-<li> Reduce Repetition Using the repeat Function</li>
-<li> Limit Item Size Using the minmax Function</li>
-<li> Create Flexible Layouts Using auto-fill</li>
-<li> Create Flexible Layouts Using auto-fit</li>
-<li> Use Media Queries to Create Responsive Layouts</li>
-<li> Create Grids within Grids</li>
+<li>☑ Create Your First CSS Grid</li>
+<li>☑ Add Columns with grid-template-columns</li>
+<li>☑ Add Rows with grid-template-rows</li>
+<li>☑ Use CSS Grid units to Change the Size of Columns and Rows</li>
+<li>☑ Create a Column Gap Using grid-column-gap</li>
+<li>☑ Create a Row Gap using grid-row-gap</li>
+<li>☑ Add Gaps Faster with grid-gap</li>
+<li>☑ Use grid-column to Control Spacing</li>
+<li>☑ Use grid-row to Control Spacing</li>
+<li>☑ Align an Item Horizontally using justify-self</li>
+<li>☑ Align an Item Vertically using align-self</li>
+<li>☑ Align All Items Horizontally using justify-items</li>
+<li>☑ Align All Items Vertically using align-items</li>
+<li>☑ Divide the Grid Into an Area Template</li>
+<li>☑ Place Items in Grid Areas Using the grid-area Property</li>
+<li>☑ Use grid-area Without Creating an Areas Template</li>
+<li>☑ Reduce Repetition Using the repeat Function</li>
+<li>☑ Limit Item Size Using the minmax Function</li>
+<li>☑ Create Flexible Layouts Using auto-fill</li>
+<li>☑ Create Flexible Layouts Using auto-fit</li>
+<li>☑ Use Media Queries to Create Responsive Layouts</li>
+<li>☑ Create Grids within Grids</li>
 
 <h2>Responsive Web Design Projects</h2>
 
